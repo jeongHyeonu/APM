@@ -9,6 +9,8 @@ class LoginUser
         try {
             $this->db = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
             $this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            session_start();
+            $this->checkSessionTimeout();
         } catch (PDOException $e) {
             echo 'mysql 연결 실패, ' . $e->getMessage() . "<br>";
         }
@@ -24,9 +26,6 @@ class LoginUser
 
     public function login($id, $password)
     {
-        // 세션 시작
-        session_start();
-
         $query = $this->db->prepare("SELECT * FROM users WHERE id = :id");
         $query->bindParam(":id", $id);
         $query->execute();
