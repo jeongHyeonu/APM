@@ -1,0 +1,455 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:08:59.513801 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 13:08:59.513801 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 13:08:59.513801 2024] [core:notice] [pid 18376:tid 340] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 13:08:59.516803 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00418: Parent: Created child process 8672
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:08:59.870427 2024] [mpm_winnt:notice] [pid 8672:tid 376] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 13:28:00.452621 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:28:00.526621 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 13:28:00.526621 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 13:28:00.526621 2024] [core:notice] [pid 18376:tid 340] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 13:28:00.532650 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00418: Parent: Created child process 22088
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:28:01.459033 2024] [mpm_winnt:notice] [pid 22088:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 13:28:02.466842 2024] [mpm_winnt:notice] [pid 8672:tid 376] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 13:39:00.248593 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 13:39:02.257558 2024] [mpm_winnt:notice] [pid 22088:tid 400] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 13:39:02.275480 2024] [mpm_winnt:notice] [pid 18376:tid 340] AH00430: Parent: Child process 22088 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:39:34.195064 2024] [mpm_winnt:notice] [pid 18376:tid 360] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 13:39:34.196064 2024] [mpm_winnt:notice] [pid 18376:tid 360] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 13:39:34.196064 2024] [core:notice] [pid 18376:tid 360] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 13:39:34.200063 2024] [mpm_winnt:notice] [pid 18376:tid 360] AH00418: Parent: Created child process 22896
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:39:34.572653 2024] [mpm_winnt:notice] [pid 22896:tid 380] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 13:41:58.456107 2024] [mpm_winnt:notice] [pid 18376:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 13:42:00.466132 2024] [mpm_winnt:notice] [pid 22896:tid 380] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 13:42:00.485023 2024] [mpm_winnt:notice] [pid 18376:tid 360] AH00430: Parent: Child process 22896 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:42:15.800260 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 13:42:15.801260 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 13:42:15.801260 2024] [core:notice] [pid 22048:tid 348] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 13:42:15.806260 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00418: Parent: Created child process 24984
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:42:16.180268 2024] [mpm_winnt:notice] [pid 24984:tid 380] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 13:47:37.891875 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:47:37.925232 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 13:47:37.925232 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 13:47:37.925232 2024] [core:notice] [pid 22048:tid 348] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 13:47:37.931230 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00418: Parent: Created child process 24300
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:47:38.904051 2024] [mpm_winnt:notice] [pid 24300:tid 376] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 13:47:42.952249 2024] [mpm_winnt:notice] [pid 24984:tid 380] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 13:52:35.855414 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 13:52:37.862859 2024] [mpm_winnt:notice] [pid 24300:tid 376] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 13:52:37.885874 2024] [mpm_winnt:notice] [pid 22048:tid 348] AH00430: Parent: Child process 24300 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:52:40.555801 2024] [mpm_winnt:notice] [pid 13520:tid 352] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 13:52:40.556801 2024] [mpm_winnt:notice] [pid 13520:tid 352] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 13:52:40.556801 2024] [core:notice] [pid 13520:tid 352] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 13:52:40.561800 2024] [mpm_winnt:notice] [pid 13520:tid 352] AH00418: Parent: Created child process 26132
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 13:52:40.948911 2024] [mpm_winnt:notice] [pid 26132:tid 356] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 14:29:24.652348 2024] [mpm_winnt:notice] [pid 13520:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 14:29:26.680702 2024] [mpm_winnt:notice] [pid 26132:tid 356] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 14:29:26.696291 2024] [mpm_winnt:notice] [pid 13520:tid 352] AH00430: Parent: Child process 26132 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:30:13.894690 2024] [mpm_winnt:notice] [pid 6216:tid 340] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 14:30:13.894690 2024] [mpm_winnt:notice] [pid 6216:tid 340] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 14:30:13.894690 2024] [core:notice] [pid 6216:tid 340] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 14:30:13.894690 2024] [mpm_winnt:notice] [pid 6216:tid 340] AH00418: Parent: Created child process 8148
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:30:15.212830 2024] [mpm_winnt:notice] [pid 8148:tid 184] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 14:34:05.552553 2024] [mpm_winnt:notice] [pid 6216:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 14:34:07.556939 2024] [mpm_winnt:notice] [pid 8148:tid 184] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 14:34:07.577715 2024] [mpm_winnt:notice] [pid 6216:tid 340] AH00430: Parent: Child process 8148 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:34:10.008639 2024] [mpm_winnt:notice] [pid 9664:tid 336] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 14:34:10.008639 2024] [mpm_winnt:notice] [pid 9664:tid 336] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 14:34:10.008639 2024] [core:notice] [pid 9664:tid 336] AH00094: Command line: 'C:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 14:34:10.016644 2024] [mpm_winnt:notice] [pid 9664:tid 336] AH00418: Parent: Created child process 17132
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:34:10.558466 2024] [mpm_winnt:notice] [pid 17132:tid 368] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 14:39:11.504111 2024] [mpm_winnt:notice] [pid 9664:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 14:39:13.507594 2024] [mpm_winnt:notice] [pid 17132:tid 368] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 14:39:13.527202 2024] [mpm_winnt:notice] [pid 9664:tid 336] AH00430: Parent: Child process 17132 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:40:37.681670 2024] [mpm_winnt:notice] [pid 19856:tid 344] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 14:40:37.682670 2024] [mpm_winnt:notice] [pid 19856:tid 344] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 14:40:37.682670 2024] [core:notice] [pid 19856:tid 344] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 14:40:37.689671 2024] [mpm_winnt:notice] [pid 19856:tid 344] AH00418: Parent: Created child process 13556
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:40:38.181683 2024] [mpm_winnt:notice] [pid 13556:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 14:56:24.591071 2024] [mpm_winnt:notice] [pid 19856:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 14:56:26.603502 2024] [mpm_winnt:notice] [pid 13556:tid 352] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 14:56:26.625436 2024] [mpm_winnt:notice] [pid 19856:tid 344] AH00430: Parent: Child process 13556 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:56:48.871435 2024] [mpm_winnt:notice] [pid 14348:tid 384] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 14:56:48.872448 2024] [mpm_winnt:notice] [pid 14348:tid 384] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 14:56:48.872448 2024] [core:notice] [pid 14348:tid 384] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 14:56:48.880433 2024] [mpm_winnt:notice] [pid 14348:tid 384] AH00418: Parent: Created child process 10700
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 14:56:49.350326 2024] [mpm_winnt:notice] [pid 10700:tid 372] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:00:55.156221 2024] [mpm_winnt:notice] [pid 14348:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:00:57.169829 2024] [mpm_winnt:notice] [pid 10700:tid 372] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:00:57.196515 2024] [mpm_winnt:notice] [pid 14348:tid 384] AH00430: Parent: Child process 10700 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:00:58.341738 2024] [mpm_winnt:notice] [pid 2312:tid 336] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 15:00:58.342737 2024] [mpm_winnt:notice] [pid 2312:tid 336] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:00:58.342737 2024] [core:notice] [pid 2312:tid 336] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:00:58.349741 2024] [mpm_winnt:notice] [pid 2312:tid 336] AH00418: Parent: Created child process 5008
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:00:58.859390 2024] [mpm_winnt:notice] [pid 5008:tid 368] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:01:12.050817 2024] [mpm_winnt:notice] [pid 2312:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:01:14.054423 2024] [mpm_winnt:notice] [pid 5008:tid 368] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:01:14.074675 2024] [mpm_winnt:notice] [pid 2312:tid 336] AH00430: Parent: Child process 5008 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:07:22.487562 2024] [mpm_winnt:notice] [pid 22376:tid 336] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 15:07:22.488561 2024] [mpm_winnt:notice] [pid 22376:tid 336] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:07:22.488561 2024] [core:notice] [pid 22376:tid 336] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:07:22.493344 2024] [mpm_winnt:notice] [pid 22376:tid 336] AH00418: Parent: Created child process 20260
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:07:22.973997 2024] [mpm_winnt:notice] [pid 20260:tid 392] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:08:39.625265 2024] [mpm_winnt:notice] [pid 22376:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:09:09.626608 2024] [mpm_winnt:notice] [pid 22376:tid 336] AH00431: Parent: Forcing termination of child process 20260
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:16:15.560068 2024] [mpm_winnt:notice] [pid 24384:tid 372] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 15:16:15.561067 2024] [mpm_winnt:notice] [pid 24384:tid 372] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:16:15.561067 2024] [core:notice] [pid 24384:tid 372] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:16:15.566066 2024] [mpm_winnt:notice] [pid 24384:tid 372] AH00418: Parent: Created child process 9496
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:16:16.009482 2024] [mpm_winnt:notice] [pid 9496:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:20:40.124545 2024] [mpm_winnt:notice] [pid 24384:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:20:42.131564 2024] [mpm_winnt:notice] [pid 9496:tid 352] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:20:42.152857 2024] [mpm_winnt:notice] [pid 24384:tid 372] AH00430: Parent: Child process 9496 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:21:12.820661 2024] [mpm_winnt:notice] [pid 11320:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 15:21:12.821662 2024] [mpm_winnt:notice] [pid 11320:tid 356] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:21:12.821662 2024] [core:notice] [pid 11320:tid 356] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:21:12.826662 2024] [mpm_winnt:notice] [pid 11320:tid 356] AH00418: Parent: Created child process 12968
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5eae:b44f:d03f:2f1d. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 10 15:21:13.222588 2024] [mpm_winnt:notice] [pid 12968:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:27:40.787626 2024] [mpm_winnt:notice] [pid 11320:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:27:42.794673 2024] [mpm_winnt:notice] [pid 12968:tid 352] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:27:42.814777 2024] [mpm_winnt:notice] [pid 11320:tid 356] AH00430: Parent: Child process 12968 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 12140:tid 336] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 15:27:59.387685 2024] [mpm_winnt:notice] [pid 12140:tid 336] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:27:59.387685 2024] [core:notice] [pid 12140:tid 336] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:27:59.393751 2024] [mpm_winnt:notice] [pid 12140:tid 336] AH00418: Parent: Created child process 22200
+[Mon Jun 10 15:27:59.789360 2024] [mpm_winnt:notice] [pid 22200:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:28:43.521987 2024] [mpm_winnt:notice] [pid 12140:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:29:08.625425 2024] [mpm_winnt:notice] [pid 22200:tid 352] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:29:08.654334 2024] [mpm_winnt:notice] [pid 12140:tid 336] AH00430: Parent: Child process 22200 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 23536:tid 364] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Mon Jun 10 15:29:14.230897 2024] [mpm_winnt:notice] [pid 23536:tid 364] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:29:14.230897 2024] [core:notice] [pid 23536:tid 364] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:29:14.235897 2024] [mpm_winnt:notice] [pid 23536:tid 364] AH00418: Parent: Created child process 22568
+[Mon Jun 10 15:29:14.626057 2024] [mpm_winnt:notice] [pid 22568:tid 372] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:29:24.871351 2024] [mpm_winnt:notice] [pid 23536:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:29:32.877452 2024] [mpm_winnt:notice] [pid 22568:tid 372] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:29:32.900053 2024] [mpm_winnt:notice] [pid 23536:tid 364] AH00430: Parent: Child process 22568 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 22120:tid 348] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Mon Jun 10 15:33:37.948849 2024] [mpm_winnt:notice] [pid 22120:tid 348] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:33:37.948849 2024] [core:notice] [pid 22120:tid 348] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:33:37.954923 2024] [mpm_winnt:notice] [pid 22120:tid 348] AH00418: Parent: Created child process 17132
+[Mon Jun 10 15:33:38.526993 2024] [mpm_winnt:notice] [pid 17132:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:36:55.213695 2024] [mpm_winnt:notice] [pid 22120:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 15:36:57.227048 2024] [mpm_winnt:notice] [pid 17132:tid 352] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 15:36:57.248949 2024] [mpm_winnt:notice] [pid 22120:tid 348] AH00430: Parent: Child process 17132 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 20504:tid 340] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Mon Jun 10 15:37:07.984412 2024] [mpm_winnt:notice] [pid 20504:tid 340] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Mon Jun 10 15:37:07.984412 2024] [core:notice] [pid 20504:tid 340] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Mon Jun 10 15:37:07.988413 2024] [mpm_winnt:notice] [pid 20504:tid 340] AH00418: Parent: Created child process 22904
+[Mon Jun 10 15:37:08.494675 2024] [mpm_winnt:notice] [pid 22904:tid 372] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 10 15:48:10.704486 2024] [php:error] [pid 22904:tid 1196] [client ::1:50817] PHP Fatal error:  Uncaught Error: Undefined constant "PHP" in C:\\APM\\Apache24\\htdocs\\test.php:11\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\test.php on line 11
+[Mon Jun 10 15:48:35.626463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:50818] PHP Warning:  Constant PHP already defined in C:\\APM\\Apache24\\htdocs\\test.php on line 13
+[Mon Jun 10 15:52:51.910340 2024] [php:error] [pid 22904:tid 1200] [client ::1:51974] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\\APM\\Apache24\\htdocs\\test.php on line 15
+[Mon Jun 10 15:54:36.867404 2024] [php:warn] [pid 22904:tid 1196] [client ::1:52433] PHP Warning:  Undefined variable $php in C:\\APM\\Apache24\\htdocs\\test.php on line 13
+[Mon Jun 10 15:55:03.082045 2024] [php:error] [pid 22904:tid 1196] [client ::1:52519] PHP Fatal error:  Uncaught Error: Undefined constant "PHP" in C:\\APM\\Apache24\\htdocs\\test.php:14\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\test.php on line 14
+[Mon Jun 10 15:55:08.538007 2024] [php:error] [pid 22904:tid 1200] [client ::1:52569] PHP Fatal error:  Uncaught Error: Undefined constant "PHP" in C:\\APM\\Apache24\\htdocs\\test.php:17\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\test.php on line 17
+[Mon Jun 10 15:59:18.998679 2024] [php:warn] [pid 22904:tid 1200] [client ::1:53300] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 11
+[Mon Jun 10 15:59:29.794259 2024] [php:warn] [pid 22904:tid 1196] [client ::1:53436] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 11
+[Mon Jun 10 15:59:29.794259 2024] [php:warn] [pid 22904:tid 1196] [client ::1:53436] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 12
+[Mon Jun 10 16:00:11.123356 2024] [php:warn] [pid 22904:tid 1196] [client ::1:53527] PHP Warning:  Undefined array key "a" in C:\\APM\\Apache24\\htdocs\\test.php on line 13
+[Mon Jun 10 16:00:12.920156 2024] [php:warn] [pid 22904:tid 1196] [client ::1:53527] PHP Warning:  Undefined array key "a" in C:\\APM\\Apache24\\htdocs\\test.php on line 13
+[Mon Jun 10 16:02:52.023298 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54253] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 17
+[Mon Jun 10 16:02:56.362997 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54253] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 16
+[Mon Jun 10 16:02:56.362997 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54253] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 17
+[Mon Jun 10 16:03:05.541090 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54254] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 16, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:03:05.541090 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54254] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 17, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:04.279757 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54304] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 16, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:04.279757 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54304] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 17, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:04.279757 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54304] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 18, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:04.279757 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54304] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 19, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:18.880440 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54513] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 16, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:18.880440 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54513] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 17, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:18.880440 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54513] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 19, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:18.880440 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54513] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 20, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:26.751760 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54562] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 16, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:26.751760 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54562] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test.php on line 17, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:26.751760 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54562] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 19, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:04:26.751760 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54562] PHP Warning:  Undefined array key "password" in C:\\APM\\Apache24\\htdocs\\test.php on line 20, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:05:56.505299 2024] [php:warn] [pid 22904:tid 1196] [client ::1:54887] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test2.php on line 2, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:06:44.896741 2024] [php:error] [pid 22904:tid 1200] [client ::1:54917] script 'C:/APM/Apache24/htdocs/test.php' not found or unable to stat, referer: http://localhost:9080/test.php
+[Mon Jun 10 16:06:52.627973 2024] [php:warn] [pid 22904:tid 1200] [client ::1:54917] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test2.php on line 2, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:07:00.023203 2024] [php:warn] [pid 22904:tid 1196] [client ::1:55091] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test2.php on line 2, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:07:57.469793 2024] [php:warn] [pid 22904:tid 1200] [client ::1:55157] PHP Warning:  Undefined array key "id" in C:\\APM\\Apache24\\htdocs\\test2.php on line 2, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:11:15.859104 2024] [php:error] [pid 22904:tid 1200] [client ::1:55988] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\APM\\Apache24\\htdocs\\test2.php on line 3, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $key in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $value in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $key in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $value in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $key in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $value in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $key in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $value in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $key in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:15:20.604463 2024] [php:warn] [pid 22904:tid 1200] [client ::1:57089] PHP Warning:  Undefined variable $value in C:\\APM\\Apache24\\htdocs\\test2.php on line 8, referer: http://localhost:9080/test.html
+[Mon Jun 10 16:17:55.302057 2024] [php:error] [pid 22904:tid 1196] [client ::1:57672] PHP Parse error:  syntax error, unexpected token "}" in C:\\APM\\Apache24\\htdocs\\test3.php on line 7
+[Mon Jun 10 16:23:58.620495 2024] [php:error] [pid 22904:tid 1196] [client ::1:64398] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: bool + string in C:\\APM\\Apache24\\htdocs\\test3.php:6\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\test3.php on line 6
+[Mon Jun 10 16:26:47.062038 2024] [mpm_winnt:notice] [pid 20504:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 10 16:26:49.073482 2024] [mpm_winnt:notice] [pid 22904:tid 372] AH00364: Child: All worker threads have exited.
+[Mon Jun 10 16:26:49.096991 2024] [mpm_winnt:notice] [pid 20504:tid 340] AH00430: Parent: Child process 22904 exited successfully.
+[Tue Jun 11 07:21:32.438848 2024] [mpm_winnt:notice] [pid 6568:tid 156] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Tue Jun 11 07:21:32.438848 2024] [mpm_winnt:notice] [pid 6568:tid 156] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Tue Jun 11 07:21:32.438848 2024] [core:notice] [pid 6568:tid 156] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Tue Jun 11 07:21:32.446458 2024] [mpm_winnt:notice] [pid 6568:tid 156] AH00418: Parent: Created child process 9284
+[Tue Jun 11 07:21:33.650947 2024] [mpm_winnt:notice] [pid 9284:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 11 09:54:49.384781 2024] [core:warn] [pid 6024:tid 152] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 11 09:54:49.505468 2024] [mpm_winnt:notice] [pid 6024:tid 152] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Tue Jun 11 09:54:49.505468 2024] [mpm_winnt:notice] [pid 6024:tid 152] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Tue Jun 11 09:54:49.505468 2024] [core:notice] [pid 6024:tid 152] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Tue Jun 11 09:54:49.510490 2024] [mpm_winnt:notice] [pid 6024:tid 152] AH00418: Parent: Created child process 9248
+[Tue Jun 11 09:54:50.250823 2024] [mpm_winnt:notice] [pid 9248:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 11 10:36:23.431641 2024] [php:error] [pid 9248:tid 1164] [client ::1:55840] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in C:\\APM\\Apache24\\htdocs\\test4.php:3\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\test4.php on line 3
+[Tue Jun 11 10:42:34.376368 2024] [php:warn] [pid 9248:tid 1128] [client ::1:57289] PHP Warning:  Array to string conversion in C:\\APM\\Apache24\\htdocs\\test4.php on line 7
+[Tue Jun 11 10:42:49.652454 2024] [php:warn] [pid 9248:tid 1164] [client ::1:57290] PHP Warning:  Array to string conversion in C:\\APM\\Apache24\\htdocs\\test4.php on line 7
+[Tue Jun 11 10:56:06.589201 2024] [php:error] [pid 9248:tid 1164] [client ::1:60388] PHP Fatal error:  Uncaught Error: Object of class car could not be converted to string in C:\\APM\\Apache24\\htdocs\\test4.php:66\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\test4.php(71): car->publicMethod()\n#1 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\test4.php on line 66
+[Tue Jun 11 10:56:58.228055 2024] [php:error] [pid 9248:tid 1164] [client ::1:60426] PHP Parse error:  syntax error, unexpected token "(", expecting variable in C:\\APM\\Apache24\\htdocs\\test4.php on line 57
+[Tue Jun 11 11:10:00.707541 2024] [php:warn] [pid 9248:tid 1164] [client ::1:63549] PHP Warning:  Undefined array key "gender" in C:\\APM\\Apache24\\htdocs\\test5.php on line 17, referer: http://localhost:9080/test5.php
+[Tue Jun 11 11:10:00.707541 2024] [php:warn] [pid 9248:tid 1164] [client ::1:63549] PHP Warning:  Undefined array key "favtopic" in C:\\APM\\Apache24\\htdocs\\test5.php on line 20, referer: http://localhost:9080/test5.php
+[Tue Jun 11 11:23:25.953723 2024] [php:warn] [pid 9248:tid 1164] [client ::1:50917] PHP Warning:  Undefined array key "city" in C:\\APM\\Apache24\\htdocs\\testsession.php on line 15
+[Tue Jun 11 11:23:25.953723 2024] [php:warn] [pid 9248:tid 1164] [client ::1:50917] PHP Warning:  Undefined array key "gu" in C:\\APM\\Apache24\\htdocs\\testsession.php on line 16
+[Tue Jun 11 11:36:56.378757 2024] [php:error] [pid 9248:tid 1164] [client ::1:54051] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'usertable' in C:\\APM\\Apache24\\htdocs\\join_process.php:12\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\join_process.php(12): mysqli_select_db(Object(mysqli), 'usertable')\n#1 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\join_process.php on line 12, referer: http://localhost:9080/join.html
+[Tue Jun 11 11:40:46.229400 2024] [php:error] [pid 9248:tid 1128] [client ::1:55026] script 'C:/APM/Apache24/htdocs/search.html' not found or unable to stat, referer: http://localhost:9080/join.html
+[Tue Jun 11 11:41:13.486598 2024] [php:error] [pid 9248:tid 1128] [client ::1:55218] script 'C:/APM/Apache24/htdocs/search_process.php' not found or unable to stat, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:41:33.983410 2024] [php:warn] [pid 9248:tid 1164] [client ::1:55235] PHP Warning:  Undefined variable $name in C:\\APM\\Apache24\\htdocs\\search_process.php on line 14, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:41:33.983410 2024] [php:warn] [pid 9248:tid 1164] [client ::1:55235] PHP Warning:  Undefined variable $name in C:\\APM\\Apache24\\htdocs\\search_process.php on line 16, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:41:33.983410 2024] [php:warn] [pid 9248:tid 1164] [client ::1:55235] PHP Warning:  Undefined variable $name in C:\\APM\\Apache24\\htdocs\\search_process.php on line 18, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:41:33.987103 2024] [php:error] [pid 9248:tid 1164] [client ::1:55235] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'testuser.user' doesn't exist in C:\\APM\\Apache24\\htdocs\\search_process.php:24\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\search_process.php(24): mysqli_query(Object(mysqli), 'select * from u...')\n#1 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\search_process.php on line 24, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:41:50.755328 2024] [php:error] [pid 9248:tid 1128] [client ::1:55304] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'testuser.user' doesn't exist in C:\\APM\\Apache24\\htdocs\\search_process.php:24\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\search_process.php(24): mysqli_query(Object(mysqli), 'select * from u...')\n#1 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\search_process.php on line 24, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:42:50.136875 2024] [php:error] [pid 9248:tid 1164] [client ::1:55358] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'uname' in 'where clause' in C:\\APM\\Apache24\\htdocs\\search_process.php:24\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\search_process.php(24): mysqli_query(Object(mysqli), 'select * from u...')\n#1 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\search_process.php on line 24, referer: http://localhost:9080/search.html
+[Tue Jun 11 11:44:46.895252 2024] [php:warn] [pid 9248:tid 1164] [client ::1:56021] PHP Warning:  Undefined array key "name" in C:\\APM\\Apache24\\htdocs\\join_process.php on line 3, referer: http://localhost:9080/join.html
+[Tue Jun 11 11:44:46.899251 2024] [php:error] [pid 9248:tid 1164] [client ::1:56021] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column 'birth' at row 1 in C:\\APM\\Apache24\\htdocs\\join_process.php:17\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\join_process.php(17): mysqli_query(Object(mysqli), 'insert into use...')\n#1 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\join_process.php on line 17, referer: http://localhost:9080/join.html
+[Tue Jun 11 15:16:54.419432 2024] [mpm_winnt:notice] [pid 6024:tid 152] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 11 15:16:56.434986 2024] [mpm_winnt:notice] [pid 9248:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Jun 11 15:16:56.466229 2024] [mpm_winnt:notice] [pid 6024:tid 152] AH00430: Parent: Child process 9248 exited successfully.
+[Tue Jun 11 17:45:24.556360 2024] [mpm_winnt:notice] [pid 6468:tid 344] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Tue Jun 11 17:45:24.566334 2024] [mpm_winnt:notice] [pid 6468:tid 344] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Tue Jun 11 17:45:24.566334 2024] [core:notice] [pid 6468:tid 344] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Tue Jun 11 17:45:24.569583 2024] [mpm_winnt:notice] [pid 6468:tid 344] AH00418: Parent: Created child process 10068
+[Tue Jun 11 17:45:25.836371 2024] [mpm_winnt:notice] [pid 10068:tid 356] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 11 22:18:55.927254 2024] [mpm_winnt:crit] [pid 10068:tid 356] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Jun 11 22:18:55.927254 2024] [mpm_winnt:warn] [pid 10068:tid 772] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Jun 11 22:18:55.928255 2024] [mpm_winnt:warn] [pid 10068:tid 776] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jun 12 06:34:36.911449 2024] [core:warn] [pid 6192:tid 360] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 12 06:34:37.066474 2024] [mpm_winnt:notice] [pid 6192:tid 360] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Wed Jun 12 06:34:37.066474 2024] [mpm_winnt:notice] [pid 6192:tid 360] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Wed Jun 12 06:34:37.066474 2024] [core:notice] [pid 6192:tid 360] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Wed Jun 12 06:34:37.071490 2024] [mpm_winnt:notice] [pid 6192:tid 360] AH00418: Parent: Created child process 9884
+[Wed Jun 12 06:34:38.498260 2024] [mpm_winnt:notice] [pid 9884:tid 384] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 12 11:32:39.846916 2024] [mpm_winnt:crit] [pid 9884:tid 384] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Jun 12 11:32:39.850921 2024] [mpm_winnt:warn] [pid 9884:tid 1204] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jun 12 11:32:39.851921 2024] [mpm_winnt:warn] [pid 9884:tid 804] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jun 12 22:53:22.228960 2024] [core:warn] [pid 5820:tid 120] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 12 22:53:22.276229 2024] [mpm_winnt:notice] [pid 5820:tid 120] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Wed Jun 12 22:53:22.276229 2024] [mpm_winnt:notice] [pid 5820:tid 120] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Wed Jun 12 22:53:22.276229 2024] [core:notice] [pid 5820:tid 120] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Wed Jun 12 22:53:22.276229 2024] [mpm_winnt:notice] [pid 5820:tid 120] AH00418: Parent: Created child process 8628
+[Wed Jun 12 22:53:22.950947 2024] [mpm_winnt:notice] [pid 8628:tid 380] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 12 22:56:00.308512 2024] [mpm_winnt:notice] [pid 5820:tid 120] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 12 22:56:02.331356 2024] [mpm_winnt:notice] [pid 8628:tid 380] AH00364: Child: All worker threads have exited.
+[Wed Jun 12 22:56:02.346970 2024] [mpm_winnt:notice] [pid 5820:tid 120] AH00430: Parent: Child process 8628 exited successfully.
+[Thu Jun 13 08:51:52.478946 2024] [mpm_winnt:notice] [pid 6156:tid 360] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Thu Jun 13 08:51:52.485681 2024] [mpm_winnt:notice] [pid 6156:tid 360] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Thu Jun 13 08:51:52.485681 2024] [core:notice] [pid 6156:tid 360] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Thu Jun 13 08:51:52.485681 2024] [mpm_winnt:notice] [pid 6156:tid 360] AH00418: Parent: Created child process 9156
+[Thu Jun 13 08:51:53.927662 2024] [mpm_winnt:notice] [pid 9156:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 13 14:49:13.378498 2024] [core:warn] [pid 5912:tid 356] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 13 14:49:13.513570 2024] [mpm_winnt:notice] [pid 5912:tid 356] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Thu Jun 13 14:49:13.513570 2024] [mpm_winnt:notice] [pid 5912:tid 356] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Thu Jun 13 14:49:13.513570 2024] [core:notice] [pid 5912:tid 356] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Thu Jun 13 14:49:13.513570 2024] [mpm_winnt:notice] [pid 5912:tid 356] AH00418: Parent: Created child process 9508
+[Thu Jun 13 14:49:15.548144 2024] [mpm_winnt:notice] [pid 9508:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 13 15:48:24.513865 2024] [mpm_winnt:notice] [pid 5912:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 13 15:48:26.539026 2024] [mpm_winnt:notice] [pid 9508:tid 364] AH00364: Child: All worker threads have exited.
+[Thu Jun 13 15:48:26.554797 2024] [mpm_winnt:notice] [pid 5912:tid 356] AH00430: Parent: Child process 9508 exited successfully.
+[Thu Jun 13 15:49:04.333298 2024] [mpm_winnt:notice] [pid 6560:tid 372] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Thu Jun 13 15:49:04.333298 2024] [mpm_winnt:notice] [pid 6560:tid 372] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Thu Jun 13 15:49:04.333298 2024] [core:notice] [pid 6560:tid 372] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Thu Jun 13 15:49:04.333298 2024] [mpm_winnt:notice] [pid 6560:tid 372] AH00418: Parent: Created child process 9860
+[Thu Jun 13 15:49:04.898483 2024] [mpm_winnt:notice] [pid 9860:tid 376] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 13 19:12:50.600677 2024] [mpm_winnt:crit] [pid 9860:tid 376] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jun 13 19:12:50.600677 2024] [mpm_winnt:warn] [pid 9860:tid 1232] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Jun 13 19:12:50.600677 2024] [mpm_winnt:warn] [pid 9860:tid 1212] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Jun 13 22:39:27.159464 2024] [core:warn] [pid 6712:tid 168] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 13 22:39:27.309686 2024] [mpm_winnt:notice] [pid 6712:tid 168] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Thu Jun 13 22:39:27.309686 2024] [mpm_winnt:notice] [pid 6712:tid 168] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Thu Jun 13 22:39:27.309686 2024] [core:notice] [pid 6712:tid 168] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Thu Jun 13 22:39:27.319304 2024] [mpm_winnt:notice] [pid 6712:tid 168] AH00418: Parent: Created child process 9924
+[Thu Jun 13 22:39:28.619383 2024] [mpm_winnt:notice] [pid 9924:tid 408] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 13 22:40:40.514243 2024] [mpm_winnt:crit] [pid 9924:tid 408] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jun 13 22:40:40.514243 2024] [mpm_winnt:warn] [pid 9924:tid 1216] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Jun 13 22:40:40.515244 2024] [mpm_winnt:warn] [pid 9924:tid 1220] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jun 14 06:00:37.180899 2024] [core:warn] [pid 6760:tid 352] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jun 14 06:00:37.350773 2024] [mpm_winnt:notice] [pid 6760:tid 352] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Fri Jun 14 06:00:37.350773 2024] [mpm_winnt:notice] [pid 6760:tid 352] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Fri Jun 14 06:00:37.350773 2024] [core:notice] [pid 6760:tid 352] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Fri Jun 14 06:00:37.366872 2024] [mpm_winnt:notice] [pid 6760:tid 352] AH00418: Parent: Created child process 10064
+[Fri Jun 14 06:00:38.847535 2024] [mpm_winnt:notice] [pid 10064:tid 420] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 14 06:01:41.397698 2024] [mpm_winnt:crit] [pid 10064:tid 420] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jun 14 06:01:41.397698 2024] [mpm_winnt:warn] [pid 10064:tid 784] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jun 14 06:01:41.397698 2024] [mpm_winnt:warn] [pid 10064:tid 1216] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jun 14 19:03:19.761227 2024] [core:warn] [pid 19184:tid 348] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jun 14 19:03:20.464009 2024] [mpm_winnt:notice] [pid 19184:tid 348] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Fri Jun 14 19:03:20.464009 2024] [mpm_winnt:notice] [pid 19184:tid 348] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Fri Jun 14 19:03:20.464009 2024] [core:notice] [pid 19184:tid 348] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Fri Jun 14 19:03:20.467942 2024] [mpm_winnt:notice] [pid 19184:tid 348] AH00418: Parent: Created child process 24056
+[Fri Jun 14 19:03:20.844416 2024] [mpm_winnt:notice] [pid 24056:tid 388] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 14 20:30:44.214965 2024] [php:error] [pid 24056:tid 1192] [client ::1:50347] script 'C:/APM/Apache24/htdocs/phpinfo.php' not found or unable to stat
+[Fri Jun 14 20:30:52.239213 2024] [php:warn] [pid 24056:tid 1192] [client ::1:50371] PHP Warning:  include(LoginUser): Failed to open stream: No such file or directory in C:\\APM\\Apache24\\htdocs\\task\\signup.php on line 2
+[Fri Jun 14 20:30:52.239213 2024] [php:warn] [pid 24056:tid 1192] [client ::1:50371] PHP Warning:  include(): Failed opening 'LoginUser' for inclusion (include_path='.;C:\\php\\pear') in C:\\APM\\Apache24\\htdocs\\task\\signup.php on line 2
+[Fri Jun 14 20:30:52.240231 2024] [php:error] [pid 24056:tid 1192] [client ::1:50371] PHP Fatal error:  Uncaught Error: Class "LoginUser" not found in C:\\APM\\Apache24\\htdocs\\task\\signup.php:3\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\task\\signup.php on line 3
+[Fri Jun 14 20:31:37.020089 2024] [php:error] [pid 24056:tid 1172] [client ::1:50372] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'alice' for column 'id' at row 1 in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php:85\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php(85): PDOStatement->execute()\n#1 C:\\APM\\Apache24\\htdocs\\task\\signup.php(4): LoginUser->register('alice', 'alicepw', 'ROLE_USER')\n#2 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 85
+[Fri Jun 14 20:32:46.507852 2024] [php:error] [pid 24056:tid 1192] [client ::1:50599] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'password' at row 1 in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php:85\nStack trace:\n#0 C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php(85): PDOStatement->execute()\n#1 C:\\APM\\Apache24\\htdocs\\task\\signup.php(4): LoginUser->register('alice', 'alicepw', 'ROLE_USER')\n#2 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 85
+[Fri Jun 14 20:48:56.842872 2024] [php:error] [pid 24056:tid 1192] [client ::1:52568] PHP Fatal error:  Uncaught Error: Class "UserSession" not found in C:\\APM\\Apache24\\htdocs\\task\\login.php:10\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\task\\login.php on line 10
+[Fri Jun 14 20:49:16.695911 2024] [php:warn] [pid 24056:tid 1172] [client ::1:52569] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 57, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 20:49:23.567056 2024] [php:warn] [pid 24056:tid 1192] [client ::1:52590] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 57, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 20:50:13.707427 2024] [php:warn] [pid 24056:tid 1172] [client ::1:52636] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 59, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 20:50:14.835368 2024] [php:warn] [pid 24056:tid 1172] [client ::1:52636] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 59, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 20:50:18.067217 2024] [php:warn] [pid 24056:tid 1172] [client ::1:52636] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 59, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 20:50:23.242371 2024] [php:warn] [pid 24056:tid 1192] [client ::1:52738] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 59, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 20:53:13.045651 2024] [php:warn] [pid 24056:tid 1172] [client ::1:53112] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\\APM\\Apache24\\htdocs\\task\\LoginUser.php on line 59, referer: http://localhost:9080/task/login.php
+[Fri Jun 14 21:50:49.463434 2024] [php:error] [pid 24056:tid 1192] [client ::1:61134] script 'C:/APM/Apache24/htdocs/phpinfo.php' not found or unable to stat
+[Fri Jun 14 21:50:50.467938 2024] [php:error] [pid 24056:tid 1192] [client ::1:61134] script 'C:/APM/Apache24/htdocs/phpinfo.php' not found or unable to stat
+[Fri Jun 14 21:51:00.193105 2024] [php:warn] [pid 24056:tid 1172] [client ::1:61139] PHP Warning:  Undefined variable $likeability in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 38
+[Fri Jun 14 21:51:39.517663 2024] [php:warn] [pid 24056:tid 1192] [client ::1:61161] PHP Warning:  Undefined variable $likeability in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 38
+[Fri Jun 14 21:52:30.454666 2024] [php:warn] [pid 24056:tid 1172] [client ::1:61241] PHP Warning:  Undefined variable $likeabilityc in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 39
+[Fri Jun 14 21:56:52.727280 2024] [php:warn] [pid 24056:tid 1192] [client ::1:61821] PHP Warning:  Undefined variable $likeability in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 38, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 21:58:26.254477 2024] [php:error] [pid 24056:tid 1192] [client ::1:62070] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::bindParam() in C:\\APM\\Apache24\\htdocs\\task2\\task.php:17\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 17, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 21:58:27.628922 2024] [php:error] [pid 24056:tid 1192] [client ::1:62070] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::bindParam() in C:\\APM\\Apache24\\htdocs\\task2\\task.php:17\nStack trace:\n#0 {main}\n  thrown in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 17, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:10:29.304480 2024] [php:warn] [pid 24056:tid 1172] [client ::1:57799] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 19, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:10:41.062105 2024] [php:warn] [pid 24056:tid 1192] [client ::1:57800] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 19, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:10:44.066670 2024] [php:warn] [pid 24056:tid 1192] [client ::1:57800] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 19, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:11:35.022249 2024] [php:warn] [pid 24056:tid 1172] [client ::1:57832] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 20, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:11:36.074366 2024] [php:warn] [pid 24056:tid 1172] [client ::1:57832] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 20, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:13:07.668810 2024] [php:warn] [pid 24056:tid 1192] [client ::1:58209] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 20, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:13:07.668810 2024] [php:warn] [pid 24056:tid 1192] [client ::1:58209] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 21, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:13:22.283850 2024] [php:warn] [pid 24056:tid 1172] [client ::1:58210] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 20, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:13:22.283850 2024] [php:warn] [pid 24056:tid 1172] [client ::1:58210] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 21, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:13:57.137179 2024] [php:warn] [pid 24056:tid 1192] [client ::1:58253] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 20, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:13:57.137179 2024] [php:warn] [pid 24056:tid 1192] [client ::1:58253] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 21, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:14:23.060748 2024] [php:warn] [pid 24056:tid 1172] [client ::1:58345] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 20, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:14:23.060748 2024] [php:warn] [pid 24056:tid 1172] [client ::1:58345] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 21, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:14:48.529953 2024] [php:warn] [pid 24056:tid 1192] [client ::1:58422] PHP Warning:  Trying to access array offset on false in C:\\APM\\Apache24\\htdocs\\task2\\task.php on line 21, referer: http://localhost:9080/task2/task.php
+[Fri Jun 14 22:25:34.494849 2024] [php:warn] [pid 24056:tid 1172] [client ::1:60236] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:25:36.532586 2024] [php:warn] [pid 24056:tid 1172] [client ::1:60236] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:31:03.661407 2024] [mpm_winnt:notice] [pid 19184:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 14 22:31:05.673193 2024] [mpm_winnt:notice] [pid 24056:tid 388] AH00364: Child: All worker threads have exited.
+[Fri Jun 14 22:31:05.715124 2024] [mpm_winnt:notice] [pid 19184:tid 348] AH00430: Parent: Child process 24056 exited successfully.
+[Fri Jun 14 22:31:09.101689 2024] [mpm_winnt:notice] [pid 2120:tid 356] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Fri Jun 14 22:31:09.101689 2024] [mpm_winnt:notice] [pid 2120:tid 356] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Fri Jun 14 22:31:09.102671 2024] [core:notice] [pid 2120:tid 356] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Fri Jun 14 22:31:09.109734 2024] [mpm_winnt:notice] [pid 2120:tid 356] AH00418: Parent: Created child process 21424
+[Fri Jun 14 22:31:09.629383 2024] [mpm_winnt:notice] [pid 21424:tid 364] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 14 22:31:26.581596 2024] [php:warn] [pid 21424:tid 1200] [client ::1:61345] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:31:28.621667 2024] [php:warn] [pid 21424:tid 1200] [client ::1:61345] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:34:32.776217 2024] [php:warn] [pid 21424:tid 1176] [client ::1:62053] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:34:34.815288 2024] [php:warn] [pid 21424:tid 1176] [client ::1:62053] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:34:40.346066 2024] [mpm_winnt:notice] [pid 2120:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 14 22:35:10.359019 2024] [mpm_winnt:notice] [pid 2120:tid 356] AH00431: Parent: Forcing termination of child process 21424
+[Fri Jun 14 22:35:12.956444 2024] [mpm_winnt:notice] [pid 19444:tid 384] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Fri Jun 14 22:35:12.956444 2024] [mpm_winnt:notice] [pid 19444:tid 384] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Fri Jun 14 22:35:12.956444 2024] [core:notice] [pid 19444:tid 384] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Fri Jun 14 22:35:12.961980 2024] [mpm_winnt:notice] [pid 19444:tid 384] AH00418: Parent: Created child process 9520
+[Fri Jun 14 22:35:13.551538 2024] [mpm_winnt:notice] [pid 9520:tid 380] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 14 22:35:21.592073 2024] [php:warn] [pid 9520:tid 1180] [client ::1:62191] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to\r\n530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207\r\n530 5.7.0 specifications. d2e1a72fcca58-705ccb3d1aasm3128616b3a.140 - gsmtp in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:35:22.817690 2024] [php:warn] [pid 9520:tid 1180] [client ::1:62191] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to\r\n530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207\r\n530 5.7.0 specifications. 41be03b00d2f7-6fee3baa4d1sm2659275a12.84 - gsmtp in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 34
+[Fri Jun 14 22:37:08.867416 2024] [php:warn] [pid 9520:tid 1168] [client ::1:62498] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 35
+[Fri Jun 14 22:37:10.914631 2024] [php:warn] [pid 9520:tid 1168] [client ::1:62498] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\APM\\Apache24\\htdocs\\task3\\task.php on line 35
+[Fri Jun 14 23:58:02.641555 2024] [mpm_winnt:notice] [pid 19444:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 14 23:58:04.676955 2024] [mpm_winnt:notice] [pid 9520:tid 380] AH00364: Child: All worker threads have exited.
+[Fri Jun 14 23:58:04.708225 2024] [mpm_winnt:notice] [pid 19444:tid 384] AH00430: Parent: Child process 9520 exited successfully.
+[Sat Jun 15 06:18:41.649559 2024] [mpm_winnt:notice] [pid 6308:tid 352] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Sat Jun 15 06:18:41.655559 2024] [mpm_winnt:notice] [pid 6308:tid 352] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Sat Jun 15 06:18:41.655559 2024] [core:notice] [pid 6308:tid 352] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Sat Jun 15 06:18:41.655559 2024] [mpm_winnt:notice] [pid 6308:tid 352] AH00418: Parent: Created child process 9512
+[Sat Jun 15 06:18:43.349277 2024] [mpm_winnt:notice] [pid 9512:tid 376] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 15 12:01:55.503634 2024] [mpm_winnt:crit] [pid 9512:tid 376] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Jun 15 12:01:55.506628 2024] [mpm_winnt:warn] [pid 9512:tid 1220] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sat Jun 15 12:01:55.508630 2024] [mpm_winnt:warn] [pid 9512:tid 632] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sat Jun 15 13:57:23.491805 2024] [core:warn] [pid 6276:tid 276] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 15 13:57:23.621854 2024] [mpm_winnt:notice] [pid 6276:tid 276] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Sat Jun 15 13:57:23.621854 2024] [mpm_winnt:notice] [pid 6276:tid 276] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Sat Jun 15 13:57:23.621854 2024] [core:notice] [pid 6276:tid 276] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Sat Jun 15 13:57:23.629927 2024] [mpm_winnt:notice] [pid 6276:tid 276] AH00418: Parent: Created child process 9536
+[Sat Jun 15 13:57:25.176648 2024] [mpm_winnt:notice] [pid 9536:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 15 15:38:44.455995 2024] [mpm_winnt:notice] [pid 6276:tid 276] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 15 15:38:46.483597 2024] [mpm_winnt:notice] [pid 9536:tid 428] AH00364: Child: All worker threads have exited.
+[Sat Jun 15 15:38:46.530568 2024] [mpm_winnt:notice] [pid 6276:tid 276] AH00430: Parent: Child process 9536 exited successfully.
+[Sat Jun 15 15:39:22.913327 2024] [mpm_winnt:notice] [pid 6252:tid 248] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Sat Jun 15 15:39:22.913327 2024] [mpm_winnt:notice] [pid 6252:tid 248] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Sat Jun 15 15:39:22.913327 2024] [core:notice] [pid 6252:tid 248] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Sat Jun 15 15:39:22.913327 2024] [mpm_winnt:notice] [pid 6252:tid 248] AH00418: Parent: Created child process 9468
+[Sat Jun 15 15:39:24.563006 2024] [mpm_winnt:notice] [pid 9468:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 15 15:40:19.655463 2024] [mpm_winnt:notice] [pid 6252:tid 248] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 15 15:40:21.672051 2024] [mpm_winnt:notice] [pid 9468:tid 408] AH00364: Child: All worker threads have exited.
+[Sat Jun 15 15:40:21.696459 2024] [mpm_winnt:notice] [pid 6252:tid 248] AH00430: Parent: Child process 9468 exited successfully.
+[Sat Jun 15 15:44:11.920249 2024] [mpm_winnt:notice] [pid 392:tid 360] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Sat Jun 15 15:44:11.920249 2024] [mpm_winnt:notice] [pid 392:tid 360] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Sat Jun 15 15:44:11.920249 2024] [core:notice] [pid 392:tid 360] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Sat Jun 15 15:44:11.930233 2024] [mpm_winnt:notice] [pid 392:tid 360] AH00418: Parent: Created child process 20376
+[Sat Jun 15 15:44:12.611234 2024] [mpm_winnt:notice] [pid 20376:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 15 15:44:12.618234 2024] [php:error] [pid 20376:tid 1172] [client ::1:51243] script 'C:/APM/Apache24/htdocs/phpinfo.php' not found or unable to stat
+[Sat Jun 15 15:44:25.178771 2024] [php:error] [pid 20376:tid 1168] [client 127.0.0.1:51250] script 'C:/APM/Apache24/htdocs/task1/task.php' not found or unable to stat
+[Sat Jun 15 15:45:42.767059 2024] [mpm_winnt:crit] [pid 20376:tid 416] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Jun 15 15:45:42.767059 2024] [mpm_winnt:warn] [pid 20376:tid 1328] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sat Jun 15 15:45:42.767059 2024] [mpm_winnt:warn] [pid 20376:tid 1240] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sun Jun 16 07:00:54.555085 2024] [core:warn] [pid 6732:tid 176] AH00098: pid file C:/APM/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 16 07:00:54.697193 2024] [mpm_winnt:notice] [pid 6732:tid 176] AH00455: Apache/2.4.59 (Win64) PHP/8.3.8 configured -- resuming normal operations
+[Sun Jun 16 07:00:54.697193 2024] [mpm_winnt:notice] [pid 6732:tid 176] AH00456: Apache Lounge VS17 Server built: Jun  5 2024 14:13:01
+[Sun Jun 16 07:00:54.697193 2024] [core:notice] [pid 6732:tid 176] AH00094: Command line: 'c:\\APM\\Apache24\\bin\\httpd.exe -d C:/APM/Apache24'
+[Sun Jun 16 07:00:54.697193 2024] [mpm_winnt:notice] [pid 6732:tid 176] AH00418: Parent: Created child process 9908
+[Sun Jun 16 07:00:56.300176 2024] [mpm_winnt:notice] [pid 9908:tid 364] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 16 07:01:55.887528 2024] [mpm_winnt:crit] [pid 9908:tid 364] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Jun 16 07:01:55.888530 2024] [mpm_winnt:warn] [pid 9908:tid 392] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sun Jun 16 07:01:55.888530 2024] [mpm_winnt:warn] [pid 9908:tid 432] (OS 995)스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
